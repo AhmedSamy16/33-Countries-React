@@ -1,7 +1,7 @@
 # 33-Countries-React
 This is project 33/50 of my React projects series. 
 
-It's a project that display all the countries in the world with information about population, capital, currency, languages and much more.
+It's a project that display all the countries in the world with information about population, capital, currency, languages and much more from an external API.
 
 ## features
 - You can switch between a dark theme and a light theme
